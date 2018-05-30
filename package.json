@@ -1,0 +1,16 @@
+{
+  "name": "jwt_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1"
+  }
+}
